@@ -15,6 +15,13 @@ from dotenv import load_dotenv
 
 1. Proceso de instalación:
 
+    - Crear una cuenta en Discord for developers y crear una nueva aplicacion.
+    - Se generará una public key del bot y se pone en la variable "TOKEN_DISCORD"/
+    - En el Apartado Bot dar todos los permisos en 'Privileged Gateway Intents'.
+    
+    - Para añadir el bot en el servidor en el apartado de 'Installaton' habrá un link de instalacion,
+      este link lo va a mandar a su discord y deberá elegir el servidor en donde quiere invitar al bot.
+      
     - Poner una API valida de algun proveedor de LLM's.
     - Se recomienda crear una nueva categoria llamada 'Soporte', igualmente 
       se puede alojar en cualquier categoria siempre y cuando se pase el ID de esta.
