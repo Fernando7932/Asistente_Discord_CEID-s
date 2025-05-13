@@ -1,0 +1,35 @@
+Círculo de Investigación y Desarrollo de Software
+
+Creado el 11 de mayo de 2006 por acuerdo 022-06 de la Escuela de Ingeniería de la Universidad de Lima, el Círculo tiene como objetivo investigar y desarrollar proyectos de software para resolver problemas y difundir la programación en la Universidad. Sus logros se comparten con alumnos, instituciones y empresas interesadas.
+
+Una característica clave es su independencia tecnológica, lo que les permite investigar y usar tecnologías de vanguardia, incluyendo soluciones propietarias y de código abierto.
+
+Lugar de reuniones Miércoles 5-7pm,  Edificio I1 Aula 305.
+
+El Círculo involucra equipos multidisciplinarios de estudiantes, fomentando la aplicación de conocimientos y el espíritu autodidacta. Participan estudiantes de diversas áreas, como diseño gráfico, marketing y análisis de procesos.
+
+Misión:
+Investigar y desarrollar soluciones innovadoras de alta calidad en diversas plataformas, promoviendo el desarrollo integral de los colaboradores.
+
+Visión:
+Ser el Círculo de estudios líder en Perú en investigación aplicada e implementación de soluciones de software, garantizando la satisfacción de nuestros clientes.
+
+Valores:
+Compromiso, Innovación, Vocación de servicio, Optimismo, Trabajo en equipo, Organización.
+
+Organización:
+El Círculo se organiza en equipos para preparar a los estudiantes para el mercado laboral. Los equipos incluyen:
+
+Games: Investigación y desarrollo de videojuegos.
+
+Mobile: Aplicaciones móviles (Android e iOS).
+
+Web: Desarrollo de aplicaciones web.
+
+Cloud: Aplicaciones en nubes públicas y privadas.
+
+Base de Datos: RDBMS tradicionales y NoSQL.
+
+Profesor Asesor:
+Hernán Alejandro Quintana Cruz
+hquintan@ulima.edu.pe
